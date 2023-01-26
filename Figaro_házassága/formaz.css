@@ -1,0 +1,40 @@
+body
+{
+    background-color: #ffccaa;
+    font-size: 14px;
+    font-family: Tahoma;
+}
+a
+{ 
+    color: #a04000;
+}
+#vorosmarty
+{ 
+    width: 150px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+}
+h1
+{ 
+    color: #a04000;
+}
+p
+{ 
+    text-align: justify;
+}
+#figaro
+{ 
+    float: right;
+    width: 195px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+table
+{ 
+    width: 100%;
+}
